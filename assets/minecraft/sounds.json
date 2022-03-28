@@ -1,0 +1,732 @@
+{
+  "ar.dtml.00_welcome_patin": {
+    "sounds": [
+        "ar/dtml/00_welcome_patin"            
+    ]
+  },
+  "ar.dtml.01_shuiloa": {
+    "sounds": [
+        "ar/dtml/01_shuiloa"            
+    ]     
+  },
+  "ar.dtml.02_patinwest": {
+    "sounds": [
+        "ar/dtml/02_patinwest"            
+    ]
+  },
+  "ar.dtml.02a_patinwest": {
+    "sounds": [
+        "ar/dtml/02a_patinwest"            
+    ] 
+  },
+  "ar.dtml.03_patin": {
+    "sounds": [
+        "ar/dtml/03_patin"            
+    ] 
+  },
+  "ar.hte.00_welcome_cho": {
+    "sounds": [
+        "ar/hte/00_welcome_cho"            
+    ]
+  },
+  "ar.hte.00_welcome_shl": {
+    "sounds": [
+        "ar/hte/00_welcome_shl"            
+    ] 
+  },
+  "ar.hte.01_chinghang": {
+    "sounds": [
+        "ar/hte/01_chinghang"            
+    ]
+  },
+  "ar.hte.01a_chinghang": {
+    "sounds": [
+        "ar/hte/01a_chinghang"            
+    ]   
+  },
+  "ar.hte.02_shuilun": {
+    "sounds": [
+        "ar/hte/02_shuilun"            
+    ]  
+  },
+  "ar.hte.02a_shuilun": {
+    "sounds": [
+        "ar/hte/02a_shuilun"            
+    ] 
+  },
+  "ar.hte.03_shuiloa": {
+    "sounds": [
+        "ar/hte/03_shuiloa"            
+    ]   
+  },
+  "ar.hte.03a_shuiloa": {
+    "sounds": [
+        "ar/hte/03a_shuiloa"            
+    ]
+  },
+  "ar.hte.04_chinghong": {
+    "sounds": [
+        "ar/hte/04_chinghong"            
+    ] 
+  },
+  "ar.hte.04a_chinghong": {
+    "sounds": [
+        "ar/hte/04a_chinghong"            
+    ] 
+  },
+  "ar.hte.04b_chinghong": {
+    "sounds": [
+        "ar/hte/04b_chinghong"            
+    ]  
+  },
+  "ar.htl.01_fantasyisland": {
+    "sounds": [
+        "ar/htl/01_fantasyisland"            
+    ] 
+  },
+  "ar.htl.01_fantasyisland_right": {
+    "sounds": [
+        "ar/htl/01_fantasyisland_right"            
+    ]
+  },
+  "ar.htl.02_somerset": {
+    "sounds": [
+        "ar/htl/02_somerset"            
+    ]
+  },
+  "ar.htl.03_chinghang": {
+    "sounds": [
+        "ar/htl/03_chinghang"            
+    ]
+  },
+  "ar.htl.04_verdantfields": {
+    "sounds": [
+        "ar/htl/04_verdantfields"            
+    ]
+  },
+  "ar.htl.05_bradford": {
+    "sounds": [
+        "ar/htl/05_bradford"            
+    ]
+  },
+  "ar.htl.06_shuilun": {
+    "sounds": [
+        "ar/htl/06_shuilun"            
+    ]
+  },
+  "ar.htl.07_heyaowan": {
+    "sounds": [
+        "ar/htl/07_heyaowan"            
+    ]
+  },
+  "ar.htl.08_parkview": {
+    "sounds": [
+        "ar/htl/08_parkview"            
+    ]
+  },
+  "ar.remindingpa.01_holdthehandrail": {
+    "sounds": [
+        "ar/remindingpa/01_holdthehandrail"            
+    ]
+  },
+  "ar.remindingpa.02_noeating": {
+    "sounds": [
+        "ar/remindingpa/02_noeating"            
+    ]
+  },
+  "ar.remindingpa.03_movingtrain": {
+    "sounds": [
+        "ar/remindingpa/03_movingtrain"            
+    ]
+  },
+  "ar.remindingpa.04_delay_asap": {
+    "sounds": [
+        "ar/remindingpa/04_delay_asap"            
+    ]
+  },
+  "ar.remindingpa.05_delay_trainahead": {
+    "sounds": [
+        "ar/remindingpa/05_delay_trainahead"            
+    ]
+  },
+  "ar.remindingpa.06_psd_closing": {
+    "sounds": [
+        "ar/remindingpa/06_psd_closing"            
+    ]
+  },
+  "ar.remindingpa.07_apg_closing": {
+    "sounds": [
+        "ar/remindingpa/07_apg_closing"            
+    ]
+  },
+  "ar.remindingpa.08_traindoors_closing": {
+    "sounds": [
+        "ar/remindingpa/08_traindoors_closing"            
+    ]
+  },
+  "ar.remindingpa.09_traindoors_noapg": {
+    "sounds": [
+        "ar/remindingpa/09_traindoors_noapg"            
+    ]
+  },
+  "ar.remindingpa.10_centertrain": {
+    "sounds": [
+        "ar/remindingpa/10_centertrain"            
+    ]
+  },
+  "ar.remindingpa.11_doors_left": {
+    "sounds": [
+        "ar/remindingpa/11_doors_left"            
+    ]
+  },
+  "ar.remindingpa.12_doors_right": {
+    "sounds": [
+        "ar/remindingpa/12_doors_right"            
+    ]
+  },
+  "ar.remindingpa.13_nonservice_nexttrain": {
+    "sounds": [
+        "ar/remindingpa/13_nonservice_nexttrain"            
+    ]
+  },
+  "ar.remindingpa.14_nonservice_thistrain": {
+    "sounds": [
+        "ar/remindingpa/14_nonservice_thistrain"            
+    ]
+  },
+  "ar.remindingpa.15_stopservice_exit": {
+    "sounds": [
+        "ar/remindingpa/15_stopservice_exit" 
+    ]
+  },
+  "ar.remindingpa.16_exitall": {
+    "sounds": [
+        "ar/remindingpa/16_exitall" 
+    ]
+  },
+  "ar.remindingpa.17_doorclosingchime": {
+    "sounds": [
+        "ar/remindingpa/17_doorclosingchime" 
+    ]
+  },
+  "ar.remindingpa.18_dooropeningchime": {
+    "sounds": [
+        "ar/remindingpa/18_dooropeningchime" 
+    ]
+  },
+  "ar.remindingpa.19_noapg_doorclosingchime": {
+    "sounds": [
+        "ar/remindingpa/19_noapg_doorclosingchime" 
+    ]
+  },
+  "ar.remindingpa.20_mindthegap_v1": {
+    "sounds": [
+        "ar/remindingpa/20_mindthegap_v1" 
+    ]
+  },
+  "ar.remindingpa.21_mindthegap_v2": {
+    "sounds": [
+        "ar/remindingpa/21_mindthegap_v2" 
+    ]
+  },
+  "ar.remindingpa.22_thankyouar": {
+    "sounds": [
+        "ar/remindingpa/22_thankyouar" 
+    ]
+  },
+  "ar.remindingpa.23_stopservice_yellow": {
+    "sounds": [
+        "ar/remindingpa/23_stopservice_yellow" 
+    ]
+  },
+  "ar.remindingpa.24_doors_niu": {
+    "sounds": [
+        "ar/remindingpa/24_doors_niu" 
+    ]
+  },
+  "ar.remindingpa.25_offerseats": {
+    "sounds": [
+        "ar/remindingpa/25_offerseats" 
+    ]
+  },
+  "ar.tcl.01_minami": {
+    "sounds": [
+        "ar/tcl/01_minami" 
+    ]
+  },
+  "ar.tcl.02_chinglam": {
+    "sounds": [
+        "ar/tcl/02_chinglam" 
+    ]
+  },
+  "ar.tcl.03_lathing": {
+    "sounds": [
+        "ar/tcl/03_lathing" 
+    ]
+  },
+  "ar.tcl.04_cityhall": {
+    "sounds": [
+        "ar/tcl/04_cityhall" 
+    ]
+  },
+  "ar.tcl.05_anshieldcounty": {
+    "sounds": [
+        "ar/tcl/05_anshieldcounty" 
+    ]
+  },
+  "ar.tcl.06_hotin": {
+    "sounds": [
+        "ar/tcl/06_hotin" 
+    ]
+  },
+  "ar.tcl.07_shuiloa": {
+    "sounds": [
+        "ar/tcl/07_shuiloa" 
+    ]
+  },
+  "ar.tcl.08_eightyhill": {
+    "sounds": [
+        "ar/tcl/08_eightyhill" 
+    ]
+  },
+  "ar.tcl.09_eastpointbay_parkview": {
+    "sounds": [
+        "ar/tcl/09_eastpointbay_parkview" 
+    ]
+  },
+  "ar.tcl.09a_eastpointbay": {
+    "sounds": [
+        "ar/tcl/09a_eastpointbay" 
+    ]
+  },
+  "ar.tcl.10_originview": {
+    "sounds": [
+        "ar/tcl/10_originview" 
+    ]
+  },
+  "ar.tcl.11_parkview": {
+    "sounds": [
+        "ar/tcl/11_parkview" 
+    ]
+  },
+  "ar.tcl.11a_parkview": {
+    "sounds": [
+        "ar/tcl/11a_parkview" 
+    ]
+  },
+  "ar.tcl.12_epp": {
+    "sounds": [
+        "ar/tcl/12_epp" 
+    ]
+  },
+  "ar.tcl.13_stop_epp": {
+    "sounds": [
+        "ar/tcl/13_stop_epp" 
+    ]
+  },
+  "ar.tcl.14_chinghang": {
+    "sounds": [
+        "ar/tcl/14_chinghang" 
+    ]
+  },
+  "ar.train_arr_pa.hte_chinghong": {
+    "sounds": [
+        "ar/train_arr_pa/hte_chinghong" 
+    ]
+  },
+  "ar.train_arr_pa.hte_shuiloa": {
+    "sounds": [
+        "ar/train_arr_pa/hte_shuiloa" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_chinghang": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_chinghang" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_chinghang_nopsd": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_chinghang_nopsd" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_epp": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_epp" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_epp_nopsd": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_epp_nopsd" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_epp_stopservice": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_epp_stopservice" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_parkview": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_parkview" 
+    ]
+  },
+  "ar.train_arr_pa.tcl_parkview_nopsd": {
+    "sounds": [
+        "ar/train_arr_pa/tcl_parkview_nopsd" 
+    ]
+  },
+  "ar.heyaowan.e_heyaowanbeach": {
+    "sounds": [
+        "ar/heyaowan/e_heyaowanbeach" 
+    ]
+  },
+  "ar.heyaowan.e_heyaowansta": {
+    "sounds": [
+        "ar/heyaowan/e_heyaowansta" 
+    ]
+  },
+  "ar.heyaowan.e_originview": {
+    "sounds": [
+        "ar/heyaowan/e_originview" 
+    ]
+  },
+  "ar.heyaowan.e_originviewind": {
+    "sounds": [
+        "ar/heyaowan/e_originviewind" 
+    ]
+  },
+  "ar.heyaowan.e_sportsground": {
+    "sounds": [
+        "ar/heyaowan/e_sportsground" 
+    ]
+  },
+  "ar.heyaowan.e_taketicket": {
+    "sounds": [
+        "ar/heyaowan/e_taketicket" 
+    ]
+  },
+  "ar.heyaowan.mairimasu": {
+    "sounds": [
+        "ar/heyaowan/mairimasu" 
+    ]
+  },
+  "ar.heyaowan.w_heyaowanbeach": {
+    "sounds": [
+        "ar/heyaowan/w_heyaowanbeach" 
+    ]
+  },
+  "ar.heyaowan.w_heyaowannorth": {
+    "sounds": [
+        "ar/heyaowan/w_heyaowannorth" 
+    ]
+  },
+  "ar.heyaowan.w_heyaowansta": {
+    "sounds": [
+        "ar/heyaowan/w_heyaowansta" 
+    ]
+  },
+  "ar.heyaowan.w_originview": {
+    "sounds": [
+        "ar/heyaowan/w_originview" 
+    ]
+  },
+  "ar.heyaowan.w_sportsground": {
+    "sounds": [
+        "ar/heyaowan/w_sportsground" 
+    ]
+  },
+  "ar.heyaowan.w_taketicket": {
+    "sounds": [
+        "ar/heyaowan/w_taketicket" 
+    ]
+  },
+  "ar.brl.01_sheungkok": {
+    "sounds": [
+        "ar/brl/01_sheungkok" 
+    ]
+  },
+  "ar.brl.02_brighton": {
+    "sounds": [
+        "ar/brl/02_brighton" 
+    ]
+  },
+  "ar.brl.03_proston": {
+    "sounds": [
+        "ar/brl/03_proston" 
+    ]
+  },
+  "ar.brl.04_lamshing": {
+    "sounds": [
+        "ar/brl/04_lamshing" 
+    ]
+  },
+  "ar.brl.04a_lamshing(direct)": {
+    "sounds": [
+        "ar/brl/04a_lamshing(direct)" 
+    ]
+  },
+  "ar.brl.05_cloudward": {
+    "sounds": [
+        "ar/brl/05_cloudward" 
+    ]
+  },
+  "ar.brl.06_brightviewgarden": {
+    "sounds": [
+        "ar/brl/06_brightviewgarden" 
+    ]
+  },
+  "ar.remindingpa.26_unwell2": {
+    "sounds": [
+        "ar/remindingpa/26_unwell2" 
+    ]
+  },
+  "ar.train_arr_pa.brl_proston": {
+    "sounds": [
+        "ar/train_arr_pa/brl_proston" 
+    ]
+  },
+  "ar.train_arr_pa.brl_sheungkok": {
+    "sounds": [
+        "ar/train_arr_pa/brl_sheungkok" 
+    ]
+  },
+  "ar.gta_apm.01_arrival": {
+    "sounds": [
+        "ar/gta_apm/01_arrival" 
+    ]
+  },
+  "ar.gta_apm.02_gate7-14(eastbound)": {
+    "sounds": [
+        "ar/gta_apm/02_gate7-14(eastbound)" 
+    ]
+  },
+  "ar.gta_apm.02_gate7-14": {
+    "sounds": [
+        "ar/gta_apm/02_gate7-14" 
+    ]
+  },
+  "ar.gta_apm.standclear": {
+    "sounds": [
+        "ar/gta_apm/standclear" 
+    ]
+  },
+  "ar.gta_apm.03_gate15-16": {
+    "sounds": [
+        "ar/gta_apm/03_gate15-16" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.01_brighton": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/01_brighton" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.02_originpoint": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/02_originpoint" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.03_locmingplace": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/03_locmingplace" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.04_hayuen": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/04_hayuen" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.05_snowland": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/05_snowland" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.06_locview": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/06_locview" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.07_sheungming": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/07_sheungming" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.08_bustlingcircuit": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/08_bustlingcircuit" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.arr_innering": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/arr_innering" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.arr_outering": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/arr_outering" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.special_exitprocess": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/special_exitprocess" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.special_produceticket": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/special_produceticket" 
+    ]
+  },
+  "ar.brighton_lrt.brightoneast.special_voidticket": {
+    "sounds": [
+        "ar/brighton_lrt/brightoneast/special_voidticket" 
+    ]
+  },
+  "ar.interlink_gta.special_announcement.01_dutyfree": {
+    "sounds": [
+        "ar/interlink_gta/special_announcement/01_dutyfree" 
+    ]
+  },
+  "ar.interlink_gta.special_announcement.02_remind_device": {
+    "sounds": [
+        "ar/interlink_gta/special_announcement/02_remind_device" 
+    ]
+  },
+  "ar.interlink_gta.special_announcement.03_departmusic": {
+    "sounds": [
+        "ar/interlink_gta/special_announcement/03_departmusic" 
+    ]
+  },
+  "ar.interlink_gta.special_announcement.04_doorclosingchime": {
+    "sounds": [
+        "ar/interlink_gta/special_announcement/04_doorclosingchime" 
+    ]
+  },
+  "ar.interlink_gta.nextstop_announcement.(temp.)nb04_arrbradford": {
+    "sounds": [
+        "ar/interlink_gta/nextstop_announcement/(temp.)nb04_arrbradford" 
+    ]
+  },
+  "ar.interlink_gta.nextstop_announcement.nb01_tobradford": {
+    "sounds": [
+        "ar/interlink_gta/nextstop_announcement/nb01_tobradford" 
+    ]
+  },
+  "ar.interlink_gta.nextstop_announcement.nb03_arrchinghang": {
+    "sounds": [
+        "ar/interlink_gta/nextstop_announcement/nb03_arrchinghang" 
+    ]
+  },
+  "ar.interlink_gta.nextstop_announcement.nb04_arrbradford": {
+    "sounds": [
+        "ar/interlink_gta/nextstop_announcement/nb04_arrbradford" 
+    ]
+  },
+  "ar.interlink_gta.nextstop_announcement.nb05_waterhill": {
+    "sounds": [
+        "ar/interlink_gta/nextstop_announcement/nb05_waterhill" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.01_proston": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/01_proston" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.02_locmingplace": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/02_locmingplace" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.03_sunnycoast": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/03_sunnycoast" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.04_coastedge": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/04_coastedge" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.05_sheunglam": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/05_sheunglam" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.06_sheungkok": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/06_sheungkok" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.07_arr_sheungkok": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/07_arr_sheungkok" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.08_arr_snowland": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/08_arr_snowland" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.09_memorial": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/09_memorial" 
+    ]
+  },
+  "ar.brighton_lrt.brightonwest.10_snowland": {
+    "sounds": [
+        "ar/brighton_lrt/brightonwest/10_snowland" 
+    ]
+  },
+  "ar.brighton_lrt.remindingpa.01_dooropen": {
+    "sounds": [
+        "ar/brighton_lrt/remindingpa/01_dooropen" 
+    ]
+  },
+  "ar.brighton_lrt.remindingpa.02_doorclosing_lrt": {
+    "sounds": [
+        "ar/brighton_lrt/remindingpa/02_doorclosing_lrt" 
+    ]
+  },
+  "ar.brighton_lrt.remindingpa.03_bulky_luggage": {
+    "sounds": [
+        "ar/brighton_lrt/remindingpa/03_bulky_luggage" 
+    ]
+  },
+  "ar.brighton_lrt.remindingpa.04_centretrain": {
+    "sounds": [
+        "ar/brighton_lrt/remindingpa/04_centretrain" 
+    ]
+  },
+  "ar.brighton_lrt.remindingpa.05_onerideonly": {
+    "sounds": [
+        "ar/brighton_lrt/remindingpa/05_onerideonly" 
+    ]
+  },
+  "ar.brighton_lrt.towncentre.01_sirloin": {
+    "sounds": [
+        "ar/brighton_lrt/towncentre/01_sirloin" 
+    ]
+  },
+  "ar.brighton_lrt.towncentre.02_sheunglam": {
+    "sounds": [
+        "ar/brighton_lrt/towncentre/02_sheunglam" 
+    ]
+  },
+  "ar.brighton_lrt.towncentre.03_bustlingcircuit": {
+    "sounds": [
+        "ar/brighton_lrt/towncentre/03_bustlingcircuit" 
+    ]
+  },
+  "ar.brighton_lrt.towncentre.04_koklock": {
+    "sounds": [
+        "ar/brighton_lrt/towncentre/04_koklock" 
+    ]
+  }
+}
+
+
+
+
+	
+
+
+
+
+
